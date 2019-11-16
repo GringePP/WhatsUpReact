@@ -1,0 +1,14 @@
+Requirements:
+1. Onekey weekday menu
+2. Daily menu
+3. Can add vegetable and meat to the alternative library
+4. Show vegetable and meat detail(picture, description, price?)
+5. Freestyle on Sunday
+6. Sunday shopping reminder
+
+Modules:
+1. Home page display
+2. Random algorithm
+3. Food library
+4. Spider for crawling detail of food
+5. Reminder
