@@ -1,7 +1,7 @@
 {
   "name": "whatsupreact",
   "version": "1.0.0",
-  "description": "What's Up? React!",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,21 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/GringePP/WhatsUpReact.git"
   },
-  "keywords": [
-    "React"
-  ],
-  "author": "Mindjet",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GringePP/WhatsUpReact/issues"
   },
   "homepage": "https://github.com/GringePP/WhatsUpReact#readme",
   "dependencies": {
-    "parcel-bundler": "^1.12.4",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
-  },
-  "devDependencies": {
-    "sass": "^1.23.6"
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "parcel-bundler": "^1.12.4"
   }
 }
