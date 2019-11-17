@@ -20,7 +20,11 @@
   },
   "homepage": "https://github.com/GringePP/WhatsUpReact#readme",
   "dependencies": {
-    "react": "^16.11.0",
-    "react-dom": "^16.11.0"
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "sass": "^1.23.6"
   }
 }

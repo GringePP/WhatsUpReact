@@ -1,0 +1,23 @@
+.wrapper {
+  width: 100%;
+  background: grey;
+}
+
+.random-machine {
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  padding: 20px;
+
+  .vegetable {
+    background: green;
+    width: 40%;
+    height: 100px;
+  }
+
+  .meat {
+    background: indianred;
+    width: 40%;
+    height: 100px;
+  }
+}
