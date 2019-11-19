@@ -3,9 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www",
-    "babel-start": "babel-node ./bin/www",
-    "hotreload": "nodemon --exec npm run babel-start"
+    "start": "babel-node ./bin/www",
+    "hotreload": "nodemon --exec npm start"
   },
   "dependencies": {
     "babel-cli": "^6.26.0",
