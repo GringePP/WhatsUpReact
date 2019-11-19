@@ -1,9 +1,8 @@
-var express = require("express");
-var router = express.Router();
+import express from "express";
 
-/* GET home page. */
-router.get("/", function(req, res, next) {
-  res.render("index", { title: "Express" });
+const router = express.Router();
+router.get("/", (req, res, next) => {
+  res.render("index", { title: "WhatsUpReact" });
 });
 
-module.exports = router;
+export { router };
